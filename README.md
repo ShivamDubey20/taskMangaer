@@ -76,8 +76,14 @@ Tasks are fetched from [JSONPlaceholder](https://jsonplaceholder.typicode.com/) 
 
 ![Task Manager Section](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(51).png?raw=true)
 
+
 --**This is how you can Add Task :**
+
 ![Add Task Section](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(54).png?raw=true)
+
+
+--**Task Manager(Dark Mode):**  
+![Dark Mode]()
 
 
 ## Future Enhancements
