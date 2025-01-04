@@ -71,10 +71,8 @@ Tasks are fetched from [JSONPlaceholder](https://jsonplaceholder.typicode.com/) 
 
 ## Screenshots
 
---**Header Section:**  
+--**Task Manager(Light Mode):**  
 ![Header Section](https://raw.githubusercontent.com/ShivamDubey20/taskMangaer/be6a804f0374b9bd7be207c411e7ef58b12de5d3/Screenshot%20(50).png)
-
---**Task Manager:**  
 ![Task Manager Section](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(51).png?raw=true)
 
 
