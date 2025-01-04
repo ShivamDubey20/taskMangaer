@@ -69,6 +69,11 @@ A magical task manager application to organize tasks for users of all ages! Buil
 
 Tasks are fetched from [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API, with a limit of 7 tasks for demonstration purposes.
 
+## Screenshots
+
+--**Header Section:**  
+![Header Section](https://raw.githubusercontent.com/ShivamDubey20/taskMangaer/be6a804f0374b9bd7be207c411e7ef58b12de5d3/Screenshot%20(50).png)
+
 ## Future Enhancements
 
 - Add user authentication for personalized task management.
