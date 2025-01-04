@@ -12,6 +12,26 @@ A magical task manager application to organize tasks for users of all ages! Buil
 - **Drag-and-Drop Functionality:** Reorder tasks seamlessly using drag-and-drop.
 - **External API Integration:** Fetch initial tasks from a JSONPlaceholder API.
 
+  
+## Screenshots
+
+--**Task Manager(Light Mode):**  
+![Header Section](https://raw.githubusercontent.com/ShivamDubey20/taskMangaer/be6a804f0374b9bd7be207c411e7ef58b12de5d3/Screenshot%20(50).png)
+
+![Task Manager Section](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(51).png?raw=true)
+
+
+--**This is how you can Add Task :**
+
+![Add Task Section](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(54).png?raw=true)
+
+
+--**Task Manager(Dark Mode):**  
+![Dark Mode](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(55).png?raw=true)
+
+![Dark Mode Section](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(56).png?raw=true)
+
+
 ## Project Structure
 
 - **components/**
@@ -68,25 +88,6 @@ A magical task manager application to organize tasks for users of all ages! Buil
 ## API Integration
 
 Tasks are fetched from [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API, with a limit of 7 tasks for demonstration purposes.
-
-## Screenshots
-
---**Task Manager(Light Mode):**  
-![Header Section](https://raw.githubusercontent.com/ShivamDubey20/taskMangaer/be6a804f0374b9bd7be207c411e7ef58b12de5d3/Screenshot%20(50).png)
-
-![Task Manager Section](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(51).png?raw=true)
-
-
---**This is how you can Add Task :**
-
-![Add Task Section](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(54).png?raw=true)
-
-
---**Task Manager(Dark Mode):**  
-![Dark Mode](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(55).png?raw=true)
-
-![Dark Mode Section](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(56).png?raw=true)
-
 
 ## Future Enhancements
 
