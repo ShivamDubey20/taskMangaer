@@ -85,6 +85,8 @@ Tasks are fetched from [JSONPlaceholder](https://jsonplaceholder.typicode.com/) 
 --**Task Manager(Dark Mode):**  
 ![Dark Mode](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(55).png?raw=true)
 
+![Dark Mode Section](https://github.com/ShivamDubey20/taskMangaer/blob/main/Screenshot%20(56).png?raw=true)
+
 
 ## Future Enhancements
 
